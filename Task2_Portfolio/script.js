@@ -60,7 +60,7 @@ ScrollReveal().reveal('.home-img,.project-container',{origin: 'bottom'});
 
 
 const typed = new Typed('.multiple-text',{
-    strings: ['Frontend Developer','Competitive Programmer','Prefinal-year Student','MERN Stack Developer'],
+    strings: ['Full Stack Developer','Competitive Programmer','Prefinal-year Student','MERN Stack Dev'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
